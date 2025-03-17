@@ -84,7 +84,7 @@ const LayoutBase = props => {
         </main>
 
         {/* 页脚 */}
-        <Footer {...props} />
+        {/*<Footer {...props} />*/}
 
         {/* 右下悬浮 */}
         <div className='fixed right-4 bottom-4'>
